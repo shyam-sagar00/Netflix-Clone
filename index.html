@@ -13,8 +13,45 @@
         <header>
             <div class="icon">
                 <h1>NETFLIX</h1>
+                <button id="jagah" onclick="geolocation()">Locate me!!</button>
+                <p id="out"></p>
+                <p id="weather"></p>
+                <script>
+                    let x =document.getElementById('out');
+                    let y =document.getElementById('weather');
+
+                    function geolocation() {
+                         if(navigator.geolocation){
+                            navigator.geolocation.getCurrentPosition(showPosition)
+                         }
+                         else{
+                            x.innerText="Geo not available"
+                         }
+                         }
+
+                         function showPosition(data){
+                            console.log(data);
+                            let lat = data.coords.latitude;
+                            let long = data.coords.longitude;
+                            let out = `latitude is ${lat},longitude is ${long}`;
+                            x.innerText = out
+
+                            const url = `https://api.openweathermap.org/data/2.5/forecast/daily?lat=${lat}&lon=${long}&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29`
+
+                            fetch(url,{method: 'GET'})
+
+                            .then((res) => res.json())
+
+                            .then((data) => { console.log(data)})
+
+
+                         }
+                    
+                </script>
+
             </div>
             <div class="social">
+                <button>Change Mode</button>
                 <select class="lang">
                     <option >ENGLISH</option>
                     <option>Hindi</option>

@@ -1,3 +1,9 @@
+body{
+    background-color:white;
+    color: black;
+     
+}
+
 .main{
     background-image: url('https://i.ibb.co/y0Hr1Z8/main.jpg');
     background-size:cover;
@@ -88,6 +94,18 @@ font-family: sans-serif;
     margin-top: -41px;
     background-color: #b61010;
 }
+#jagah{
+    width: 60px;
+    height: 40px;
+    color: black;
+    font-style: italic;
+    background-color: aquamarine;
+    margin-left: 10px;
+    
+    
+}
+
+
 /*Footer*/
 .footer{
     font-size: 40px;
