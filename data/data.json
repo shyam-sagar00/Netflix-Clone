@@ -1,0 +1,339 @@
+{
+    "Netflix  clone":[
+        {
+            "a_o_id":1,
+            "title":"The Rings Of Power",
+            "image":"https://i.ibb.co/SvXzLc1/The-rings-of-power.jpg",
+            "description":"Set thousands of years before the events of J.R.R. Tolkien’s The Lord of the Rings, this epic drama follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth.",
+            "rating":6.9,
+            "releaseYear":2022
+        },
+        {
+            "a_o_id":2,
+            "title":"The Family Man",
+            "image":"https://i.ibb.co/rfNzMwy/Family-man.jpg",
+            "description":"Srikant Tiwari has quit TASC and works in the private sector to spend more time with the family. A powerful new enemy forces him to return. Srikant has to now uncover and thwart a dangerous coalition between an old foe and a dormant group of foreign insurgents. But the danger is much closer to home. This time around, nobody is safe!",
+            "rating":8.2,
+            "releaseYear":2021
+        },
+        {
+            "a_o_id":3,
+            "title":"Good Night Oppy",
+            "image":"https://i.ibb.co/PzHMd8F/Good-night-oppy.jpg",
+            "description":"Good Night Oppy tells the inspirational true story of Opportunity, a rover that was sent to Mars for a 90-day mission but ended up surviving for 15 years. The film follows Opportunity’s groundbreaking journey on Mars and the remarkable bond forged between a robot and her humans millions of miles away.",
+            "rating":6.5,
+            "releaseYear":2022
+        },
+        {
+            "a_o_id":4,
+            "title":"Hush Hush",
+            "image":"https://i.ibb.co/RQz9LTG/Hush-Hush.jpg",
+            "description":"After a dangerous encounter at a party, four friends find themselves hurling down a rabbit hole of lies, deceit and secrets. As their safe, privileged world turns dark and dangerous, the secrets they keep become the bond for their survival. An intelligent cop is in pursuit, as the four friends try to keep up this deception.",
+            "rating":5.5,
+            "releaseYear":2022
+        },
+        {
+            "a_o_id":5,
+            "title":"Mirzapur",
+            "image":"https://i.ibb.co/Gc1ZZ9F/Mirzapur.jpg",
+            "description":"In Mirzapur, revenge runs darker than blood. There is one title, the King of Mirzapur, but many takers. Munna feels invincible after escaping from the wedding massacre. Guddu and Golu are nowhere to be found. Akhandanand’s ambitions soar as he eyes political power. Going beyond Purvanchal to the power corridors of Lucknow and the streets of Bihar, there’s one question – who will rule Mirzapur?",
+            "rating":8.5,
+            "releaseYear":2020
+        },
+        {
+            "a_o_id":6,
+            "title":"Overdose",
+            "image":"https://i.ibb.co/X4q9Hwt/Overdose.jpg",
+            "description":"[Original Audio in “Multiple Languages”] Sara Bellaïche, captain at the judicial police in Toulouse, is investigating a go-fast linked to the murder of two teenagers, a case that Richard Cross, a cop in Paris, is dealing with. Forced to collaborate, Sara and Richard, with diametrically opposed methods, get plunged into a breathless race against the clock from Spain's to France's roads.",
+            "rating":5.5,
+            "releaseYear":2022
+        },
+        {
+            "a_o_id":7,
+            "title":"The Boys",
+            "image":"https://i.ibb.co/NCTLVJf/The-boys.jpg",
+            "description":"It's been a year of calm. Homelander's subdued. Butcher works for the government, supervised by Hughie of all people. But both men itch to turn this peace and quiet into blood and bone. So when The Boys learn of a mysterious Anti-Supe weapon, it sends them crashing into the Seven, starting a war, and chasing the legend of the first Superhero: Soldier Boy.",
+            "rating":8.7,
+            "releaseYear":2022
+        },
+        {
+            "a_o_id":8,
+            "title":"The Peripheral",
+            "image":"https://i.ibb.co/mHMXTDQ/The-peripheral.jpg",
+            "description":"The Peripheral centers on Flynne Fisher, a woman trying to hold together the pieces of her broken family in a forgotten corner of tomorrow's America. Flynne is smart, ambitious, and doomed. She has no future. Until the future comes calling for her. The Peripheral is master storyteller William Gibson’s dazzling, hallucinatory glimpse into the fate of mankind — and what lies beyond.",
+            "rating":8.0,
+            "releaseYear":2022
+        }
+    ],
+
+
+    "Movies":[
+        {
+            "m_id":1,
+            "title":"300",
+            "image":"https://i.ibb.co/HNvQGp3/300-movie.jpg",
+            "description":"In this retelling of the Battle of Thermopylae, King Xerxes of Persia amasses an army of hundreds of thousands to conquer the divided nation of Greece in 481 B.C. In the mountain pass of Thermopylae, they encounter Spartan King Leonidas and his royal guard of soldiers numbering just 300. According to legend, their valor and sacrifice inspired all of Greece to unite against the Persian foe.",
+            "rating":7.6,
+            "releaseYear":2007
+        },
+        {
+            "m_id":2,
+            "title":"Avengers",
+            "image":"https://i.ibb.co/kmWtv5P/avengers.jpg",
+            "description":"The Avengers are forced to party with Ultron when he seeks to disassemble the team by taking control of Iron Man's armor and enact a nefarious scheme to take over the world.",
+            "rating":8.8,
+            "releaseYear":2009
+        },
+        {
+            "m_id":3,
+            "title":"Jujutsu Kaisen 0",
+            "image":"https://i.ibb.co/BtkyHKG/jujutsu-kaisen-movie.webp",
+            "description":"Yuta Okkotsu witnessed the death of his childhood sweetheart in a traffic accident.Rika was turned into a cursed spirit. Haunted by her spirit, Okkotsu wanted to end his life.But he was taken to the Jujutsu High by the most powerful Jujutsu Sorcerer, Satoru Gojo.There, he made a decision to break Rika's curse at Jujutsu High.",
+            "rating":7.8,
+            "releaseYear":2022
+        },
+        {
+            "m_id":4,
+            "title":"KGF",
+            "image":"https://i.ibb.co/fDH2GD7/kgf.jpg",
+            "description":"KGF Chapter 2 is a film based on the gold mines that represents absolute power. The film is based on power struggle to rule these fields which eventually becomes one man’s destiny and his final destination.",
+            "rating":8.2,
+            "releaseYear":2018
+        },
+        {
+            "m_id":5,
+            "title":"One Piece Red",
+            "image":"https://i.ibb.co/DzgsVd0/One-Piece-RED.jpg",
+            "description":"The story is set on the Island of Music Elegia, where Uta, the world's greatest diva, holds her first ever live concert and reveals herself to the public. The Straw Hats, pirates, Marines and fans from across the world gather to enjoy Uta's voice, which has been described as otherworldly.",
+            "rating":9.0,
+            "releaseYear":2022
+        },
+        {
+            "m_id":6,
+            "title":"Sita Ramam",
+            "image":"https://i.ibb.co/n6zrKZB/Sita-Ramam.jpg",
+            "description":"Afreen, a rebellious Pakistani student sets ablaze the car of an Indian in London. Refused to apologize, Afreen is asked to return 1 Million in 1 month. Angered Afreen comes back to Pakistan to get the money from her grandfather. The late grandfather assigns a letter delivering task to Afreen, written by Ram to Sita. Afreen sets out to find Ram and gradually unveils the story of Sita and Ram.",
+            "rating":8.6,
+            "releaseYear":2022
+        },
+        {
+            "m_id":7,
+            "title":"Pushpa",
+            "image":"https://i.ibb.co/HB6wPn8/puspa.jpg",
+            "description":"Pushpa Raj (Allu Arjun) a coolie, volunteers to smuggle red sanders, a rare wood that only grows in Andhra, with the help of novel ideas to smuggle the red sanders. Pushpa quickly becomes leader of red sanders smuggling network. While Pushpa is at his prime, a ruthless police officer Bhanwar Singh Shekhawat (Fahadh Faasil) takes charge as SP and ridicules Pushpa for his lineage.",
+            "rating":7.6,
+            "releaseYear":2022
+        },
+        {
+            "m_id":8,
+            "title":"Shamshera",
+            "image":"https://i.ibb.co/MChk05C/shamshera.jpg",
+            "description":"The Khameran were a warrior tribe who were deceitfully imprisoned & enslaved in the fort of Kaza by Shuddh Singh (Sanjay Dutt). Their leader Shamshera (Ranbir Kapoor), tried to escape the fort to earn the price of his tribe’s freedom but in vain. 25 years later, his son Balli begins a journey to fulfill his father’s legacy and come to be the next Shamshera battling to win the freedom of his tribe.",
+            "rating":4.2,
+            "releaseYear":2022
+        }
+    ],
+
+
+    "Kids":[
+        {
+            "k_id":1,
+            "title":"Ben 10 Ultimate Alien",
+            "image":"https://i.ibb.co/FXPPBcb/ben-10-ultimate-alien.jpg",
+            "description":"Life is changing for super-powered teen Ben Tennyson. His secret identity has been revealed, leaving him to battle not only the evil aliens who continue to threaten the planet, but also the down-side of international superstardom. Armed with a mysterious new watch-like device, the Ultimatrix, Ben must learn to master its full powers.",
+            "rating":7.5,
+            "releaseYear":2010
+        },
+        {
+            "k_id":2,
+            "title":"Chotta Bheem",
+            "image":"https://i.ibb.co/d48xqcD/chhota-bheem.jpg",
+            "description":"About 500 years ago, the five kingdoms around Dholakpur joined together to end Kirmada’s rule. Now a mysterious force has brought him back from the dead. The Dholakpur army led by Bheem fight bravely but they is no match to the magically powerful Goblins.",
+            "rating":7.5,
+            "releaseYear":2008
+        },
+        {
+            "k_id":3,
+            "title":"Doraemon",
+            "image":"https://i.ibb.co/G7SP9dm/doraemon.jpg",
+            "description":"Doraemon is a robotic cat that comes from the 22nd century. He comes to 20th century and stays with Nobi Family. The Nobis love Doraemon very much. So Doraemon always help the Nobis with the devices from 22nd century.",
+            "rating":7.5,
+            "releaseYear":2006
+        },
+        {
+            "k_id":4,
+            "title":"Harry Potter and Goblet of Fire",
+            "image":"https://i.ibb.co/LpfGXt6/harry-poter.webp",
+            "description":"When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools - the Triwizard Tournament.",
+            "rating":7.5,
+            "releaseYear":2009
+        },
+        {
+            "k_id":5,
+            "title":"Oggy and The Cockcroaches",
+            "image":"https://i.ibb.co/jMbRTyz/oggy-and-cockroaches.webp",
+            "description":"As Oggy is about to change an octopus into sushi, the creature starts moaning. With her wide eyes full of tears, this darn animal is sooooo touching. Oggy falls for her and gives up his cooking plans, to the cockroaches' great despair...",
+            "rating":7.5,
+            "releaseYear":2008
+        },
+        {
+            "k_id":6,
+            "title":"Kung Fu Panda Lengends of Awesomeness",
+            "image":"https://i.ibb.co/Q9d3q0V/kung-fu-panda-legends-of-awesomeness.jpg",
+            "description":"As the Dragon Master, Po has endured his fair share of epic challenges but nothing could prepare him for his greatest one yet-as a Kung Fu teacher to a group of rambunctious kids from Panda Village who have been imbued with a mysterious and powerful chi energy. Together they embark on amazing adventures, battle ferocious villains, and become legends!",
+            "rating":7.5,
+            "releaseYear":2018
+        },
+        {
+            "k_id":7,
+            "title":"The Baby Boss",
+            "image":"https://i.ibb.co/jyBZvTG/the-baby-boss.jpg",
+            "description":"The Boss Baby is a hilariously universal story about how a new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator, a very imaginative 7-year-old named Tim. With a sly, heart-filled message about the importance of family, The Boss Baby is an original, broadly appealing comedy for all ages.",
+            "rating":6.3,
+            "releaseYear":2017
+        },
+        {
+            "k_id":8,
+            "title":"Tom and Jerry",
+            "image":"https://i.ibb.co/JQYgt99/Tom-and-Jerry.jpg",
+            "description":"The classic cat and mouse duo are back. This cartoon series follows the antics of cat Tom in his pursuit of mouse Jerry.",
+            "rating":7.5,
+            "releaseYear":2021
+        }
+    ],
+
+    "TV":[
+        {
+            "t_id":1,
+            "title":"Kung Fu Panda Lengends of Awesomeness",
+            "image":"https://i.ibb.co/Q9d3q0V/kung-fu-panda-legends-of-awesomeness.jpg",
+            "description":"As the Dragon Master, Po has endured his fair share of epic challenges but nothing could prepare him for his greatest one yet-as a Kung Fu teacher to a group of rambunctious kids from Panda Village who have been imbued with a mysterious and powerful chi energy. Together they embark on amazing adventures, battle ferocious villains, and become legends!",
+            "rating":7.5,
+            "releaseYear":2018
+        },
+        {
+            "t_id":2,
+            "title":"Good Night Oppy",
+            "image":"https://i.ibb.co/PzHMd8F/Good-night-oppy.jpg",
+            "description":"Good Night Oppy tells the inspirational true story of Opportunity, a rover that was sent to Mars for a 90-day mission but ended up surviving for 15 years. The film follows Opportunity’s groundbreaking journey on Mars and the remarkable bond forged between a robot and her humans millions of miles away.",
+            "rating":6.5,
+            "releaseYear":2022
+        },
+        {
+            "t_id":3,
+            "title":"The Family Man",
+            "image":"https://i.ibb.co/rfNzMwy/Family-man.jpg",
+            "description":"Srikant Tiwari has quit TASC and works in the private sector to spend more time with the family. A powerful new enemy forces him to return. Srikant has to now uncover and thwart a dangerous coalition between an old foe and a dormant group of foreign insurgents. But the danger is much closer to home. This time around, nobody is safe!",
+            "rating":8.2,
+            "releaseYear":2021
+        },
+        {
+            "t_id":4,
+            "title":"The Boys",
+            "image":"https://i.ibb.co/NCTLVJf/The-boys.jpg",
+            "description":"It's been a year of calm. Homelander's subdued. Butcher works for the government, supervised by Hughie of all people. But both men itch to turn this peace and quiet into blood and bone. So when The Boys learn of a mysterious Anti-Supe weapon, it sends them crashing into the Seven, starting a war, and chasing the legend of the first Superhero: Soldier Boy.",
+            "rating":8.7,
+            "releaseYear":2022
+        },
+        {
+            "t_id":5,
+            "title":"Overdose",
+            "image":"https://i.ibb.co/X4q9Hwt/Overdose.jpg",
+            "description":"[Original Audio in “Multiple Languages”] Sara Bellaïche, captain at the judicial police in Toulouse, is investigating a go-fast linked to the murder of two teenagers, a case that Richard Cross, a cop in Paris, is dealing with. Forced to collaborate, Sara and Richard, with diametrically opposed methods, get plunged into a breathless race against the clock from Spain's to France's roads.",
+            "rating":5.5,
+            "releaseYear":2022
+        },
+        {
+            "t_id":6,
+            "title":"The Peripheral",
+            "image":"https://i.ibb.co/mHMXTDQ/The-peripheral.jpg",
+            "description":"The Peripheral centers on Flynne Fisher, a woman trying to hold together the pieces of her broken family in a forgotten corner of tomorrow's America. Flynne is smart, ambitious, and doomed. She has no future. Until the future comes calling for her. The Peripheral is master storyteller William Gibson’s dazzling, hallucinatory glimpse into the fate of mankind — and what lies beyond.",
+            "rating":8.0,
+            "releaseYear":2022
+        },
+        {
+            "t_id":7,
+            "title":"Just Add Magic",
+            "image":"https://i.ibb.co/gmNPpJD/just-add-magic.jpg" ,
+            "description":"(For children ages 6-11) - Kelly Quinn and her two BFF's, Darbie and Hannah, stumble upon her grandmother's mysterious cookbook in the attic and discover some far from ordinary recipes. When the Shut'em Up Shortcake silences Kelly's pesky little brother and the Healing Hazelnut Tart heals Darbie's ankle, the girls discover they have the power of magic",
+            "rating":8.4,
+            "releaseYear":2016
+        },
+        {
+            "t_id":8,
+            "title":"The Rings of Power",
+            "image":"https://i.ibb.co/SvXzLc1/The-rings-of-power.jpg" ,
+            "description":"(For children ages 6-11) - Kelly Quinn and her two BFF's, Darbie and Hannah, stumble upon her grandmother's mysterious cookbook in the attic and discover some far from ordinary recipes. When the Shut'em Up Shortcake silences Kelly's pesky little brother and the Healing Hazelnut Tart heals Darbie's ankle, the girls discover they have the power of magic",
+            "rating":6.9,
+            "releaseYear":2022
+        }
+    ],
+
+
+    "Anime":[
+        {
+            "a_id":1,
+            "title":"Jujutsu Kaisen 0",
+            "image":"https://i.ibb.co/BtkyHKG/jujutsu-kaisen-movie.webp",
+            "description":"Yuta Okkotsu witnessed the death of his childhood sweetheart in a traffic accident.Rika was turned into a cursed spirit. Haunted by her spirit, Okkotsu wanted to end his life.But he was taken to the Jujutsu High by the most powerful Jujutsu Sorcerer, Satoru Gojo.There, he made a decision to break Rika's curse at Jujutsu High.",
+            "rating":7.8,
+            "releaseYear":2022
+        },
+        {
+            "a_id":2,
+            "title":"One Piece Red",
+            "image":"https://i.ibb.co/DzgsVd0/One-Piece-RED.jpg",
+            "description":"The story is set on the Island of Music Elegia, where Uta, the world's greatest diva, holds her first ever live concert and reveals herself to the public. The Straw Hats, pirates, Marines and fans from across the world gather to enjoy Uta's voice, which has been described as otherworldly.",
+            "rating":9.0,
+            "releaseYear":2022
+        },
+        {
+            "a_id":3,
+            "title":"That Time I Reincarnated As A Silme",
+            "image":"https://i.ibb.co/QmsDGcH/that-time-i-reincarnated-as-a-slime.jpg",
+            "description":"The story is about a salaryman who is murdered and reincarnates in a sword and sorcery world as a slime with unique powers and gathers allies to build his own nation of monsters. It was serialized online from 2013 to 2016 on the user-generated novel publishing website Shōsetsuka ni Narō.",
+            "rating":8.0,
+            "releaseYear":2013
+        },
+        {
+            "a_id":4,
+            "title":"Black Clover",
+            "image":"https://i.ibb.co/Gd9PXDd/black-clover.webp",
+            "description":"The series focuses on Asta, a young orphan who is left to be raised in an orphanage alongside his fellow orphan, Yuno. While everyone is born with the ability to utilize mana in the form of magical power, Asta, with no magic instead focuses on physical strength.",
+            "rating":8.8,
+            "releaseYear":2017
+        },
+        {
+            "a_id":5,
+            "title":"Bleach",
+            "image":"https://i.ibb.co/yqpsyXn/bleach.jpg",
+            "description":"Bleach refers to a large class of compounds used to whiten or color-lighten materials. They are frequently used for cleaning and disinfection; bleaches kill or control most types of viruses, bacteria, molds, mildews, and algae. Other, less documented, uses include weed killing and preservation of cut flowers.",
+            "rating":8.5,
+            "releaseYear":1999
+        },
+        {
+            "a_id":6,
+            "title":"Dragon Ball Z Super",
+            "image":"https://i.ibb.co/2Nh3vVg/dragonball-z-super.jpg",
+            "description":"A sequel to Toriyama's original Dragon Ball manga, it follows the adventures of Goku and friends during the ten-year timeskip after the defeat of Majin Buu. It began serialization in Shueisha's monthly shōnen manga magazine V Jump in June 2015.",
+            "rating":8.6,
+            "releaseYear":2015
+        },
+        {
+            "a_id":7,
+            "title":"One Piece",
+            "image":"https://i.ibb.co/1nqNC6V/one-piece.webp",
+            "description":"The series focuses on Monkey D. Luffy, a young man made of rubber, who, inspired by his childhood idol, the powerful pirate Red-Haired Shanks, sets off on a journey from the East Blue Sea to find the mythical treasure, the One Piece, and proclaim himself the King of the Pirates.",
+            "rating":8.6,
+            "releaseYear":1998
+        },
+        {
+            "a_id":8,
+            "title":"Naruto",
+            "image":"https://i.ibb.co/60ykKzn/naruto.webp",
+            "description":"Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+            "rating":8.2,
+            "releaseYear":2002
+        }
+    ]
+}
